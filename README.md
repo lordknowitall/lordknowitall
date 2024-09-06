@@ -1,7 +1,8 @@
-# 💫 About Me:
-🔭 I’m currently working on python java script c++ Html<br>👯 I’m looking to collaborate on Web development and ai learning<br>🤝 I’m looking for help with app development and web algorithm <br>🌱 I’m currently learning React and Next JS with MySQL<br>💬 Ask me about any web development related topics with a slight hint of algorithm
-
-
+🔭 I’m currently working on Python, JavaScript, C++, and HTML.  
+👯 I’m looking to collaborate on web development and AI learning.  
+🤝 I’m looking for help with app development and web algorithms.  
+🌱 I’m currently learning React, Next.js, and MySQL.  
+💬 Ask me about any web development-related topics with a slight hint of algorithms.
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/maidenlesssoul?igsh=MWZuaDhrNWk1bWdseQ==) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/nsknowitall?t=8QuSTET7JMqIXNM1C5LvXg&s=09) 
 
